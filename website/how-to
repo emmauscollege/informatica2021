@@ -2,7 +2,6 @@
 layout: default
 title: How To...
 parent: Website
-has_children: true
 nav_order: 1
 ---
 
