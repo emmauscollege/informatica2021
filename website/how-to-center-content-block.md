@@ -2,6 +2,8 @@
 layout: default
 title: Block centreren
 nav_order: 1
+parent: How to ...
+grandparent: Website
 ---
 
 # Block centreren
