@@ -47,13 +47,13 @@ Het is belangrijk om te beseffen dat je code in je programmeeromgeving en GitHub
 
     - Duw je commit van je 'lokale' repository naar je repository op GitHub.
 
-Wanneer je samenwerkt met anderen, wil je als je later verdergaat eerst eventuele aanpassingen van je teamgenoten binnenhalen. Als zij die netjes hebben geduwd naar de repository op GitHub, kun jij die eenvoudig binnenhalen. Bij samenwerken in een team wordt stap 0 dus:
+Wanneer je samenwerkt met anderen, wil je als je later verdergaat eerst eventuele aanpassingen van je teamgenoten binnenhalen. Als zij die netjes hebben geduwd naar de repository op GitHub, kun jij die eenvoudig binnenhalen. Bij samenwerken in een team wordt stap 1 dus:
 
     - Haal eventuele nieuwe commits van je GitHub repository binnen.
 
 
 ## 8 Stappen:
-1. **Pull** : Haal alle veranderingen van GitHub binnen in je lokale repository.
+1. **Pull** : Haal alle updates van GitHub binnen in je lokale repository.
 2. **Codeer** : Maak / verander je programmeercode.
 3. **Save (all)** : Sla je veranderingen op.
 4. **Probeer** : Test uit of het werkt.
