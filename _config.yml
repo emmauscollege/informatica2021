@@ -2,5 +2,5 @@ remote_theme: cam-emmauscollege/just-the-docs
 
 title: Informatica naslagmateriaal
 description: Dit is de plek waar je alle naslagmateriaal kunt vinden
-baseurl: "test/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cam-emmauscollege.github.io/knowledge" # the base hostname & protocol for your site, e.g. http://example.com
