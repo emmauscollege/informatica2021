@@ -27,18 +27,17 @@ Je kunt je git het gemakkelijkst voorstellen als een tijdlijn. De punten op de t
 
 Hoe werkt dit? Tijdens het programmeren werk je vaak zo:
 
-1. Maak / verander je programmeercode.
-2. Sla je veranderingen op.
-3. Test uit of het werkt.
+- Maak / verander je programmeercode.
+- Sla je veranderingen op.
+- Test uit of het werkt.
 
 Het maakt eigenlijk niet uit of je hierbij gebruik maakt van GitPod, Repl.it, Arduino of een andere programmeeromgeving.
 
 Met het gebruik van git komt daar nog een stap bij: de commit. Een commit doen betekent dat je een nieuw punt aan je tijdlijn toevoegt. Dit doe je als volgt:
 
-{:start="4"}
-4. Zet de bestanden klaar voor de commit
-5. Typ een korte maar begrijpelijke commitboodschap
-6. Commit
+- Zet de bestanden klaar voor de commit
+- Typ een korte maar begrijpelijke commitboodschap
+- Commit
 
 ### Lokaal en cloud (=>GitHub)
 Git heeft GitHub niet nodig om goed te kunnen werken.
@@ -46,13 +45,11 @@ Toch heeft het veel voordelen om gebruik te maken van git in combinatie met GitH
 GitHub functioneert dan als de centrale cloudopslag waar iedereen mee synchroniseert.
 Het is belangrijk om te beseffen dat je code in je programmeeromgeving en GitHub **wel aan elkaar verbonden, maar niet automatisch gesynchroniseerd** zijn. Je zult dit handmatig moeten doen. Maak je gebruik van GitHub, dan voer je na je commit een synchronisatie uit:
 
-{:start="7"}
-7. Duw je commit van je 'lokale' repository naar je repository op GitHub.
+- Duw je commit van je 'lokale' repository naar je repository op GitHub.
 
 Wanneer je samenwerkt met anderen, wil je als je later verdergaat eerst eventuele aanpassingen van je teamgenoten binnenhalen. Als zij die netjes hebben geduwd naar de repository op GitHub, kun jij die eenvoudig binnenhalen. Bij samenwerken in een team wordt stap 0 dus:
 
-{:start="0"}
-0. Haal eventuele nieuwe commits van je GitHub repository binnen.
+- Haal eventuele nieuwe commits van je GitHub repository binnen.
 
 
 ## 8 Stappen:
