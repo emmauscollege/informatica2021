@@ -8,7 +8,7 @@ nav_order: 5
 
 TL;DR
 Git en GitHub zijn superhandig bij het programmeren, zowel alleen als in een team.
-Ga naar het stappenplan hieronder om te zien hoe je dit bij het programmeren gebruikt.
+Ga naar [het stappenplan](#8-stappen) hieronder om te zien hoe je dit bij het programmeren gebruikt.
 
 
 ## Wat is GitHub?
