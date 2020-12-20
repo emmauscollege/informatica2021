@@ -2,9 +2,9 @@
 layout: default
 title: How to...
 parent: Website
-nav_order: 1
+nav_order: 2
 ---
 
-# How To...
+# How to...
 
 Hoe zorg ik ervoor dat:
