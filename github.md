@@ -6,6 +6,11 @@ nav_order: 5
 
 # GitHub
 
+TL;DR
+Git en GitHub zijn superhandig bij het programmeren, zowel alleen als in een team.
+Ga naar het stappenplan hieronder om te zien hoe je dit bij het programmeren gebruikt.
+
+
 ## Wat is GitHub?
 GitHub is een website waarop je gemakkelijk je programmeercode kunt opslaan. Je moet het zien als een soort cloudopslag voor je code.
 Heb je eenmaal een account in GitHub aangemaakt, dan kun je *repositories* maken. Een repository bevat de code voor één project of opdracht.
@@ -48,3 +53,14 @@ Wanneer je samenwerkt met anderen, wil je als je later verdergaat eerst eventuel
 
 {:start="0"}
 0. Haal eventuele nieuwe commits van je GitHub repository binnen.
+
+
+## 8 Stappen:
+1. **Pull** : Haal alle veranderingen van GitHub binnen in je lokale repository.
+2. **Codeer** : Maak / verander je programmeercode.
+3. **Save (all)** : Sla je veranderingen op.
+4. **Probeer** : Test uit of het werkt.
+5. **Stage** : Zet de bestanden klaar voor de commit.
+6. **Message** : Typ een korte maar begrijpelijke commitboodschap.
+7. **Commit** : Maak een nieuw punt in je tijdlijn.
+8. **Push** : Duw je commit van je 'lokale' repository naar je (cloud) repository op GitHub.
