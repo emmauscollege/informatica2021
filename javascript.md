@@ -4,4 +4,4 @@ title: Javascript
 nav_order: 2
 ---
 
-# Game
+# Javascript
