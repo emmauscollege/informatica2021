@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How To...
+title: How to...
 parent: Website
 nav_order: 1
 ---
