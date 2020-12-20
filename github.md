@@ -21,22 +21,24 @@ Git is een prachtig hulpmiddel waarmee je:
 Je kunt je git het gemakkelijkst voorstellen als een tijdlijn. De punten op de tijdlijn zijn alle versies die jij vanaf het begin hebt 'opgeslagen':
 
 Hoe werkt dit? Tijdens het programmeren werk je vaak zo:
+
 1. Maak / verander je programmeercode.
 2. Sla je veranderingen op.
 3. Test uit of het werkt.
 
-Het maakt eigenlijk niet uit of je hierbij gebruik maakt van GitPod, Repl.it, Arduino of een andere programmeeromgeving.
+    Het maakt eigenlijk niet uit of je hierbij gebruik maakt van GitPod, Repl.it, Arduino of een andere programmeeromgeving.
 
-Met het gebruik van git komt daar nog een stap bij: de commit. Een commit doen betekent dat je een nieuw punt aan je tijdlijn toevoegt. Dit doe je als volgt:
+    Met het gebruik van git komt daar nog een stap bij: de commit. Een commit doen betekent dat je een nieuw punt aan je tijdlijn toevoegt. Dit doe je als volgt:
+
 4. Zet de bestanden klaar voor de commit
 5. Typ een korte maar begrijpelijke commitboodschap
 6. Commit
 
-### Lokaal en cloud (=>GitHub)
-Git heeft GitHub niet nodig om goed te kunnen werken.
-Toch heeft het veel voordelen om gebruik te maken van git in combinatie met GitHub, helemaal als je met anderen wilt samenwerken aan dezelfde code.
-GitHub functioneert dan als de centrale cloudopslag waar iedereen mee synchroniseert.
-Het is belangrijk om te beseffen dat je code in je programmeeromgeving en GitHub **wel aan elkaar verbonden, maar niet automatisch gesynchroniseerd** zijn. Je zult dit handmatig moeten doen. Maak je gebruik van GitHub, dan voer je na je commit een synchronisatie uit:
+    ### Lokaal en cloud (=>GitHub)
+    Git heeft GitHub niet nodig om goed te kunnen werken.
+    Toch heeft het veel voordelen om gebruik te maken van git in combinatie met GitHub, helemaal als je met anderen wilt samenwerken aan dezelfde code.
+    GitHub functioneert dan als de centrale cloudopslag waar iedereen mee synchroniseert.
+    Het is belangrijk om te beseffen dat je code in je programmeeromgeving en GitHub **wel aan elkaar verbonden, maar niet automatisch gesynchroniseerd** zijn. Je zult dit handmatig moeten doen. Maak je gebruik van GitHub, dan voer je na je commit een synchronisatie uit:
 
 7. Duw je commit van je 'lokale' repository naar je repository op GitHub.
 
