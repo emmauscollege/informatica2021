@@ -2,6 +2,7 @@
 layout: default
 title: Opdrachten
 nav_order: 3
+has_children: true
 ---
 
 # Praktische opdrachten

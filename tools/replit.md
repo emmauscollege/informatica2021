@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Repl-it
+parent: Tools
 nav_order: 3
 ---
 
