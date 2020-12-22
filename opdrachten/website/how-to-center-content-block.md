@@ -12,7 +12,7 @@ Hoe centreer ik een block-element, bijvoorbeeld een `<div>` midden in de pagina,
 
 Een stukje HTML:
 
-```HTML
+```html
 <body>
   <div id="bedenk-je-eigen-id">Dit block moet gecentreerd worden</div>
 </body>
@@ -20,7 +20,7 @@ Een stukje HTML:
 
 Een stukje CSS:
 
-```CSS
+```css
 # bedenk-je-eigen-id {
   width: 200px;
   margin: auto;
