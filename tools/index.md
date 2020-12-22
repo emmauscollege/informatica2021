@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Theorie
+title: Tools
 nav_order: 1
 ---
 
-# Theorie nodules
+# Tools
 
-Hier staat welke theorie we gebruiken en waar je die kunt vinden.
+Hier staat welke tools we gebruiken en hoe ze werken.
