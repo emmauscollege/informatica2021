@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Arduino
-nav_order: 3
+parent: Theorie
+nav_order: 2
 ---
 
 # Arduino

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introductie
-parent: Website
+title: HTML+CSS
+parent: Theorie
 nav_order: 1
 ---
 
