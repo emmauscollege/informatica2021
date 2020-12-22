@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Block centreren
-nav_order: 1
+nav_order: 2
 parent: Website
 grand_parent: Opdrachten
 ---
