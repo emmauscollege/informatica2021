@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Opdrachten
-nav_order: 1
+nav_order: 3
 ---
 
 # Praktische opdrachten
