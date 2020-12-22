@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Theorie
-nav_order: 1
+nav_order: 3
 ---
 
-# Theorie nodules
+# Theorie modules
 
 Hier staat welke theorie we gebruiken en waar je die kunt vinden.
