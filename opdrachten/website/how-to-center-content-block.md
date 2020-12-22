@@ -2,8 +2,8 @@
 layout: default
 title: Block centreren
 nav_order: 1
-parent: How to...
-grand_parent: Website
+parent: Website
+grand_parent: Opdrachten
 ---
 
 # Block centreren
