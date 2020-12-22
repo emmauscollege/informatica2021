@@ -21,7 +21,7 @@ Een stukje HTML:
 Een stukje CSS:
 
 ```css
-# bedenk-je-eigen-id {
+#bedenk-je-eigen-id {
   width: 200px;
   margin: auto;
 }
