@@ -6,11 +6,11 @@ parent: Website
 grand_parent: Opdrachten
 ---
 
-# 1. Block centreren
+# Block centreren
 
 Hoe centreer ik een block-element, bijvoorbeeld een `<div>` midden in de pagina, of alle inhoud van een webpagina?
 
-# 1. Een stukje HTML:
+Een stukje HTML:
 
 ```html
 <body>
