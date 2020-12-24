@@ -13,3 +13,8 @@ De site bevat drie onderdelen
 - een overzicht van het lesmateriaal
 - opdrachten
 - uitleg over tools die we gebruiken
+
+# goede muziek
+Concentratie is belangrijk:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ceGLEhahLKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
