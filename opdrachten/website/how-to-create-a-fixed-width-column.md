@@ -8,6 +8,8 @@ grand_parent: Opdrachten
 
 # Kolom links met vaste breedte
 
+![plaatje van kolom met vaste breedte]("how-to-create-a-fixed-width-column.png")
+
 Hoe maak ik een kolom links met een vaste breedte?
 
 Dit kun je bijvoorbeeld gebruiken als je links een menu wilt neerzetten.
