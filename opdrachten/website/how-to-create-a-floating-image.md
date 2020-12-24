@@ -10,7 +10,7 @@ grand_parent: Opdrachten
 
 ![plaatje van floating image](how-to-create-a-floating-image-figure-1.png)
 
-Hoe maak ik een plaatje met tekst er omheen?
+Hoe maak je een plaatje met tekst er omheen?
 
 Dit kun je bijvoorbeeld gebruiken als je een pagina maakt met boeken, artiesten enzovoort waarbij je voor elk boek of elke artiest een plaatje met een stukje tekst ernaast wilt.
 
