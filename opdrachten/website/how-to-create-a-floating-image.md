@@ -6,7 +6,7 @@ parent: Website
 grand_parent: Opdrachten
 ---
 
-# Floating image met tekst er omheem
+# Floating image met tekst er omheen
 
 ![plaatje van floating image](how-to-create-a-floating-image-figure-1.png)
 
