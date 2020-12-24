@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Theorie
-nav_order: 2
 has_children: true
+nav_order: 2
 ---
 
 # Theorie modules
