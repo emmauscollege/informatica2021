@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Introductie HTML + CSS
-Met HTML en CSS kun je websites maken.
+In deze module leer je de basisbeginselen van HTML en CSS. Met HTML en CSS kun je websites maken.
 
 ## Lesmateriaal
 - HTML en CSS leren in KhanAcademy\
