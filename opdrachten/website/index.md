@@ -11,10 +11,10 @@ In deze opdracht ga je je eigen website maken, over een onderwerp dat jij intere
 Je gaat HTML en CSS schrijven om je website te maken.
 
 ## Opdracht
-De opdrachtbeschrijving voor de game vind je op de ELO in Magister (nieuwe plek nog toevoegen)
+De opdrachtbeschrijving voor de website vind je op de ELO in Magister (nieuwe plek nog toevoegen)
 
 ## Starterscode
-De startercode voor de game vind je op GitHub (link nog toevoegen)
+De startercode voor de website vind je op GitHub (link nog toevoegen)
 
 ## Documentatie
 - HTML en CSS leren in KhanAcademy\
