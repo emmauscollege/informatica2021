@@ -6,11 +6,11 @@ parent: Website
 grand_parent: Opdrachten
 ---
 
-# Block centreren
+# 1. Block centreren
 
 Hoe centreer ik een block-element, bijvoorbeeld een `<div>` midden in de pagina, of alle inhoud van een webpagina?
 
-Een stukje HTML:
+# 1. Een stukje HTML:
 
 ```html
 <body>
@@ -36,4 +36,4 @@ Als je het blok zo groot wilt maken dat de inhoud er precies in past, gebruik da
 ```  
 
 Voorbeeld in repl.it:
-<iframe height="400px" width="100%" src="https://repl.it/@cammeraat/HTMLcenter?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@emmauscollege/HTMLcenter?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
