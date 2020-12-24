@@ -17,9 +17,9 @@ Een stukje HTML:
 ```html
 <body>
   <p class="kolomLinks">
-		Links een kolom met een vaste breedte.
-	</p>
-	<p class="kolomRechts">
+    Links een kolom met een vaste breedte.
+  </p>
+  <p class="kolomRechts">
     Rechts een kolom met een variabele breedte. 
   </p>
   <div class="floatClear"></div>
