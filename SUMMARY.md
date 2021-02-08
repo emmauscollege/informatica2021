@@ -14,7 +14,6 @@
     * [Kolom links met vaste breedte](opdrachten/website/how-to-create-a-fixed-width-column.md)
     * [Block centreren](opdrachten/website/how-to-center-content-block.md)
     * [Floating image met tekst er omheen](opdrachten/website/how-to-create-a-floating-image.md)
-    * [Website](opdrachten/website/website.md)
 * [Tools](tools/README.md)
   * [GitHub](tools/github.md)
   * [Repl-it](tools/replit.md)
