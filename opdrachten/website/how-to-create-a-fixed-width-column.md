@@ -1,11 +1,3 @@
----
-layout: default
-title: Kolom links
-nav_order: 2
-parent: Website
-grand_parent: Opdrachten
----
-
 # Kolom links met vaste breedte
 
 ![plaatje van kolom met vaste breedte](../../.gitbook/assets/how-to-create-a-fixed-width-column-figure-1.png)
