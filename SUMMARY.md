@@ -18,7 +18,6 @@
   * [GitHub](tools/github.md)
   * [Repl-it](tools/replit.md)
   * [Gitpod](tools/gitpod.md)
-* [index](index.md)
 * [Welcome to GitHub Pages](about.md)
 * [Vraagbaak](https://github.com/emmaus-6v)
 
