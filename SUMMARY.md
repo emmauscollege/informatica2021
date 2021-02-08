@@ -1,15 +1,14 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [theorie](theorie/README.md)
+* [Welkom](README.md)
+* [Theorie](theorie/README.md)
   * [Introductie HTML + CSS](theorie/html-css.md)
   * [Physical Computing met Arduino](theorie/physical-computing.md)
   * [Digitale informatie](theorie/informatie.md)
   * [Theorie modules](theorie/index.md)
   * [Introductie in programmeren met JavaScript](theorie/javascript.md)
 * [Praktische opdrachten](opdrachten/README.md)
-  * [game](opdrachten/game/README.md)
-    * [Game programmeren](opdrachten/game/index.md)
+  * [Game](opdrachten/index.md)
   * [Website](opdrachten/website/README.md)
     * [Kolom links met vaste breedte](opdrachten/website/how-to-create-a-fixed-width-column.md)
     * [Block centreren](opdrachten/website/how-to-center-content-block.md)
@@ -21,4 +20,5 @@
   * [Gitpod](tools/gitpod.md)
 * [index](index.md)
 * [Welcome to GitHub Pages](about.md)
+* [Vraagbaak](https://github.com/emmaus-6v)
 

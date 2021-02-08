@@ -1,4 +1,4 @@
-# Initial page
+# Welkom
 
 ## Welkom op de Emmauscollege informatica website
 
