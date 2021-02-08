@@ -8,7 +8,7 @@ grand_parent: Opdrachten
 
 # Floating image met tekst er omheen
 
-![plaatje van floating image](how-to-create-a-floating-image-figure-1.png)
+![plaatje van floating image](../../.gitbook/assets/how-to-create-a-floating-image-figure-1.png)
 
 Hoe maak je een plaatje met tekst er omheen?
 
@@ -16,7 +16,7 @@ Dit kun je bijvoorbeeld gebruiken als je een pagina maakt met boeken, artiesten 
 
 Een stukje HTML:
 
-```html
+```markup
 <body>
   <img class="floatLeft" src="plaatje1.jpg">
   <p>
@@ -48,9 +48,9 @@ body {
 .floatClear {
   clear: both;
 }
-```  
+```
 
 Vergeet niet om de clear na de tekst op te nemen.
 
 Voorbeeld in repl.it:
-<iframe height="400px" width="100%" src="https://repl.it/@emmauscollege/floatPlaatje?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
