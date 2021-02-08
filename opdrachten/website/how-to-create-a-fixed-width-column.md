@@ -14,8 +14,11 @@ Hoe maak ik een kolom links met een vaste breedte?
 
 Dit kun je bijvoorbeeld gebruiken als je links een menu wilt neerzetten.
 
-Een stukje HTML:
+Een stukje HTML en CSS:
 
+{% tabs %}
+{% tab title="HTML" %}
+{% code title="index.html" %}
 ```markup
 <body>
   <p class="kolomLinks">
@@ -30,9 +33,11 @@ Een stukje HTML:
   </p>
 </body>
 ```
+{% endcode %}
+{% endtab %}
 
-Een stukje CSS:
-
+{% tab title="CSS" %}
+{% code title="style.css" %}
 ```css
 .kolomLinks {
   float: left;
@@ -48,6 +53,9 @@ Een stukje CSS:
   clear: both;
 }
 ```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 Denk eraan dat de marge, border en padding tussen de twee kolommen ook plaats innemen. En vergeet niet om de clear na de kolommen op te nemen. De html die na de clear komt gebruikt weer de volle breedte.
 
