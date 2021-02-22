@@ -1,10 +1,3 @@
----
-layout: default
-title: Gitpod
-parent: Tools
-nav_order: 4
----
-
 # Gitpod
 
 ## Wat is Gitpod?
