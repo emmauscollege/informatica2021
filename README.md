@@ -1,4 +1,4 @@
-# Welkom 2 sander saved
+# Welkom 42
 
 ## Welkom op de Emmauscollege informatica website
 
