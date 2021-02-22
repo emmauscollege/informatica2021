@@ -15,11 +15,11 @@ De achtergrondkleur van de versie van het display die we op school gebruiken kun
 
 # Library installeren
 Filmpje met uitleg hoe je de library installeert
-<iframe width="100%" src="https://www.youtube.com/embed/lINRuQtn_kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/lINRuQtn_kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Voorbeeld
 Filmpje met voorbeeld van een werkend display
-<iframe width="100%" src="https://www.youtube.com/embed/Cfpku1WOvgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/Cfpku1WOvgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Meer informatie
 Meer informatie over het display vind je op de site van de fabrikant\
