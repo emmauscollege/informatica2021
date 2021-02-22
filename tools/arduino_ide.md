@@ -34,7 +34,7 @@ Functies van de Arduino IDE:
 ## Extra libraries installeren
 1. De ingewikkeldere sensoren en actuatoren die je kunt aansluiten op je Arduino, zoals displays, hebben libraries nodig om ze te kunnen programmeren. \
    Het installeren van libraries in de Arduino kan via het menu "Hulpmiddelen" -> "Bibliotheken beheren". \
-   Het vinden van de juiste bibliotheek kan wel eens lastig zijn, vraag het de docent als je twijfelt. \ 
+   Het vinden van de juiste bibliotheek kan wel eens lastig zijn, vraag het de docent als je twijfelt. \
    Goede biblitheken bevatten voorbeeld-code die na installatie van de bibliotheek in de Arduino IDE terug te vinden is in het menu onder "Bestand" -> "Voorbeelden"
 
 ## Meer informatie
