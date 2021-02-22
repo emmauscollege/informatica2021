@@ -54,9 +54,7 @@ Vergeet niet om de clear na de tekst op te nemen.
 
 Voorbeeld in repl.it:
 
-{% embed url="https://repl.it/@cammeraat/HTMLcenter\#index.html" %}
+{% embed url="https://repl.it/@cammeraat/HTMLcenter\#index.html" caption="" %}
 
-{% embed url="https://repl.it/@cammeraat/HTMLcenter?lite=true" %}
-
-
+{% embed url="https://repl.it/@cammeraat/HTMLcenter?lite=true" caption="" %}
 

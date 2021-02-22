@@ -13,7 +13,7 @@ In deze module leer je de basisbeginselen van HTML en CSS. Met HTML en CSS kun j
 
 * HTML en CSS leren in KhanAcademy\
 
-  Ga naar [https://khanacademy.org/](https://khanacademy.org/), 
+  Ga naar [https://khanacademy.org/](https://khanacademy.org/),
 
   kies "Courses", Kies "Computer programming", kies "Intro to HTML/CSS", of ga direct naar:
 

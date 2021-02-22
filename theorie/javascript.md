@@ -13,7 +13,7 @@ Er zijn heel veel verschillende programmeertalen. Wij beginnen met programmeren 
 
 * Javascript leren in KhanAcademy\
 
-  Ga naar [https://khanacademy.org/](https://khanacademy.org/), 
+  Ga naar [https://khanacademy.org/](https://khanacademy.org/),
 
   kies "Courses", Kies "Computer programming", kies "Intro to JS", of ga direct naar:
 
