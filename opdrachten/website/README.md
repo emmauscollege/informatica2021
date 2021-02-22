@@ -1,4 +1,4 @@
-# Website2
+# Website3
 
 In deze opdracht ga je je eigen website maken, over een onderwerp dat jij interessant vindt. Je gaat HTML en CSS schrijven om je website te maken.
 
@@ -14,7 +14,7 @@ De startercode voor de website vind je op GitHub \(link nog toevoegen\)
 
 * HTML en CSS leren in KhanAcademy\
 
-  Ga naar [https://khanacademy.org/](https://khanacademy.org/), 
+  Ga naar [https://khanacademy.org/](https://khanacademy.org/),
 
   kies "Courses", Kies "Computer programming", kies "Intro to HTML/CSS", of ga direct naar:
 
