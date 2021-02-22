@@ -1,4 +1,4 @@
-# Website3
+# Website2
 
 In deze opdracht ga je je eigen website maken, over een onderwerp dat jij interessant vindt. Je gaat HTML en CSS schrijven om je website te maken.
 
