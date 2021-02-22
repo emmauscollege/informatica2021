@@ -31,7 +31,7 @@ Functies van de Arduino IDE:
 8. Je ziet nu een klein ledje op je Arduino die knippert.
 9. Verander de code, bijvoorbeeld delay(1000) aanpassen in delay(200). Herhaal stap 7. Je zult zien dat de Arduino stap 6 (compileren) vanzelf opnieuw doet, omdat je de code hebt aangepast. Het ledje knippert nu sneller. Nu je stap 9 gedaan hebt, weet je zeker dat het jouw programma is dat in de Arduino zit. De Arduino onthoudt namelijk het laatste programma, ook als de stroom eraf is geweest, dus het kan zijn dat het knipperend-led programma er al door een vorige leerling in is gezet. 
 
-## Libraries voor extra hardware installeren
+## Extra libraries installeren
 1. De ingewikkeldere sensoren en actuatoren die je kunt aansluiten op je Arduino, zoals displays, hebben libraries nodig om ze te kunnen programmeren. \
    Het installeren van libraries in de Arduino kan via het menu "Hulpmiddelen" -> "Bibliotheken beheren". \
    Het vinden van de juiste bibliotheek kan wel eens lastig zijn, vraag het de docent als je twijfelt. \ 
