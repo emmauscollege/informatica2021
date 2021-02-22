@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welkom 4](README.md)
+* [Welkom 2 sander](README.md)
 * [Theorie](theorie/README.md)
   * [Introductie HTML + CSS](theorie/html-css.md)
   * [Physical Computing met Arduino](theorie/physical-computing.md)
