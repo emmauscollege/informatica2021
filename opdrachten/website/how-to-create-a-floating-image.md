@@ -14,7 +14,7 @@ Hoe maak je een plaatje met tekst er omheen?
 
 Dit kun je bijvoorbeeld gebruiken als je een pagina maakt met boeken, artiesten enzovoort waarbij je voor elk boek of elke artiest een plaatje met een stukje tekst ernaast wilt.
 
-Een stukje HTML:
+Een stukje HTML: \(bla\)
 
 ```markup
 <body>
