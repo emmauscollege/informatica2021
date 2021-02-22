@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Display met 2 x 16 karakters gebruiken
-nav_order: 2
+nav_order: 1
 parent: Arduino
 grand_parent: Opdrachten
 ---
