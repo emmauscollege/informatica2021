@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Display met 2 regels
-nav_order: 1
+nav_order: 6
 parent: Arduino
 grand_parent: Opdrachten
 ---
