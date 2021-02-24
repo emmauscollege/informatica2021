@@ -4,15 +4,14 @@ title: Inhoud
 nav_order: 1
 ---
 
-# Welcome op de Emmauscollege informatica website
+# Emmauscollege informatica
 
-Op deze site vind je alles dat je nodig hebt voor het vak informatica op het Emmauscollege
-(nou ja alles, we zijn net begonnen, dus voorlopig is het niet meer dan een goed startpunt)
+Op deze site vind je informatie die je nodig hebt voor het informatica op het Emmauscollege. Het is een aanvulling op de informatie die in de Magister-ELO staat. We zijn net begonnen, dus voorlopig is het nog niet compleet. Laat het je docent weten als je informatie mist.
 
 De site bevat drie onderdelen
-- een overzicht van het lesmateriaal
-- opdrachten
-- uitleg over tools die we gebruiken
+- Theorie: een overzicht van het lesmateriaal
+- Opdrachten: praktische informatie over de opdrachten
+- Tools: uitleg over software die je tijdens de les gebruikt
 
 # goede muziek
 Concentratie is belangrijk:
