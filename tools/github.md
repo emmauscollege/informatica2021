@@ -63,8 +63,6 @@ Wanneer je samenwerkt met anderen, wil je als je later verdergaat eerst eventuel
 7. **Commit** : Maak een nieuw punt in je tijdlijn.
 8. **Push** : Duw je commit van je 'lokale' repository naar je (cloud) repository op GitHub.
 
-## FAQ:
-
-**Vraag:** Ik heb via email een link ontvangen om toegang te krijgen tot een repo, maar als ik op de link druk dan krijg ik een 404 fout. Wat moet ik doen?
-
-**Antwoord:** Login op github en druk dan nogmaals op de link.
+## Q&A
+### Ik heb via email een link ontvangen om toegang te krijgen tot een repo, maar als ik op de link druk dan krijg ik een 404 fout. Wat moet ik doen?
+Login op github en druk dan nogmaals op de link.
