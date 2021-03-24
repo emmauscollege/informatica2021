@@ -38,11 +38,11 @@ vergeet de # niet
 1. **Start** : ga naar https://gitpod.io/ en start je workspace
 2. **Pull** : Haal alle updates van GitHub binnen in gitpod.
 3. **Codeer** : Maak / verander je programmeercode.
-4. **Save (all)** : Sla je veranderingen op.
+4. **Save** (all) : Sla je veranderingen op.
 5. **Probeer** : Test uit of het werkt.
 6. **Stage** : Zet de bestanden klaar voor de commit.
 7. **Message** : Typ een korte maar begrijpelijke commitboodschap.
-8. **Commit** : Maak een nieuw punt in je tijdlijn.
+8. **Commit** (Signed off) : Maak een nieuw punt in je tijdlijn.
 9. **Push** : Duw je commit van gitpod naar GitHub.
 
 ## How-to
