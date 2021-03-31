@@ -11,7 +11,7 @@ grand_parent: Opdrachten
 Je kunt spelers en vijanden tekenen met opdrachten zoals rect of ellipse. Het is ook mogelijk om plaatjes in te laden die je gebruikt als spelers of vijanden. Je kunt een plaatje ook gebruiken als achtergrond.
 
 
-#Voorbeeld
+# Voorbeeld
 Voorbeeld in repl.it:
 <iframe height="400px" width="100%" src="https://repl.it/@vangeest/HowtoPlaatjes?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
