@@ -13,7 +13,7 @@ Je kunt spelers en vijanden tekenen met opdrachten zoals rect of ellipse. Het is
 
 # Voorbeeld
 Voorbeeld in repl.it:
-<iframe height="400px" width="100%" src="https://repl.it/@vangeest/HowtoPlaatjes?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://replit.com/@emmauscollege/HowtoPlaatjes?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 # Meer informatie
 Meer informatie over het gebruik van plaatjes in de p5js library vind je op\
