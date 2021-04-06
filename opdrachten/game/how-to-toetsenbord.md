@@ -16,7 +16,7 @@ Het resultaat van deze functie is TRUE als de toets met het opgegeven nummer op 
 
 # Voorbeeld
 Voorbeeld in repl.it:
-<iframe height="400px" width="100%" src="https://repl.it/@vangeest/HowtoToetsenbord?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@emmauscollege/HowtoToetsenbord?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 # Meer informatie
 - Meer informatie over KeyIsDown()\
