@@ -9,7 +9,7 @@ nav_order: 4
 ## Wat is Gitpod?
 Gitpod is een online editor die werkt met een dockerimage.
 Dat wil zeggen dat je een dockerimage kunt draaient in de cloud. Dit image draait tijdelijk, zodra je gitpod sluit wordt de status van het dockerimage bewaard.
-De editor heeft de look and feel van visual studio code
+De editor heeft de look and feel van visual studio code.
 Enkele functies van gitpod:
 - editor
 - syntax checks door middel van kleuren van code
