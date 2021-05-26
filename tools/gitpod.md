@@ -49,12 +49,19 @@ vergeet de # niet
 ### nog geen how-to's toegevoegd
 
 ## Q&A
+
 ### Ik krijg een foutmelding dat ik geen schrijfrechten op de repo heb
 De meest voorkomende reden voor deze fout is dat Gitpod geen schrijftoegang heeft tot GitHub. Dit kun je als volgt aanpassen.\
 Klik rechtsboven op je account-icoontje, kies vervolgens "Access Control" in het menuutje dat verschijnt, 
 zet alle vinkjes onder "GitHub" aan, klik update, geef toestemming in github als github daarom vraagt (groene knop).
+
+### Ik kan mijn workspace in gitpod nergens meer vinden
+Als je een workspace twee weken niet gebruikt, dan wordt hij door gitpod verwijderd. Je kunt dan een nieuwe workspace maken van de laatste versie die je in github hebt gecommit. Dit doe je als volgt: \
+Type in de browser voor de link: https://gitpod.io/#https://github.com/jouw-organisatie/jouw-repo/ \
+
 ### Hoe kan ik zien hoeveel gitpod gebruik ik deze maand nog over heb?
 Klik rechtsboven op je account-icoontje, kies vervolgens "Account" in het menuutje dat verschijnt.
+
 ### Mijn 50 uur gratis gitpod gebruik zijn op
 Bijna alle leerlingen hebben genoeg aan 50 uur per maand. Als dit bij jouw een keer niet zo is, dan kun je dit als volgt oplossen.\
 Bewaar al je werk op Gitpod vlak voordat je tijd op is. Maak met een ander e-email adres een nieuwe Gitpod account aan, 
