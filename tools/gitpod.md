@@ -57,7 +57,7 @@ zet alle vinkjes onder "GitHub" aan, klik update, geef toestemming in github als
 
 ### Ik kan mijn workspace in gitpod nergens meer vinden
 Als je een workspace twee weken niet gebruikt, dan wordt hij door gitpod verwijderd. Je kunt dan een nieuwe workspace maken van de laatste versie die je in github hebt gecommit. Dit doe je als volgt: \
-Type in de browser voor de link: https://gitpod.io/#https://github.com/jouw-organisatie/jouw-repo/ \
+Type in de browser voor de link: https://gitpod.io/#https://github.com/jouw-organisatie/jouw-repo/ 
 
 ### Hoe kan ik zien hoeveel gitpod gebruik ik deze maand nog over heb?
 Klik rechtsboven op je account-icoontje, kies vervolgens "Account" in het menuutje dat verschijnt.
