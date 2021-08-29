@@ -2,7 +2,7 @@
 layout: default
 title: Theorie
 has_children: true
-nav_order: 2
+nav_order: 10
 ---
 
 # Theorie modules

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Game
-parent: Opdrachten
 has_children: true
 nav_order: 3
 ---

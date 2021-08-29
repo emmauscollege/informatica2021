@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Arduino
-parent: Opdrachten
+title: Robot
 has_children: true
 nav_order: 4
 ---
 
-# Arduino
-In deze opdracht ga je je eigen Arduino (robot / stoplicht / game) maken.
+# Robot
+In deze opdracht ga je je eigen robot (of stoplicht of game) maken met Arduino.
 
 ## Opdracht
 De opdrachtbeschrijving vind je op de ELO in Magister (nieuwe plek nog toevoegen)
