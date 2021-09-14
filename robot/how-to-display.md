@@ -2,8 +2,7 @@
 layout: default
 title: Display met 2x16 tekens
 nav_order: 6
-parent: Arduino
-grand_parent: Opdrachten
+parent: Robot
 ---
 
 # Display met 2x16 tekens
